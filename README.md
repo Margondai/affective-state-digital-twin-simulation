@@ -1,5 +1,9 @@
 # Affective State Modeling to Predict Training Dropout in Military Academies
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://python.org)
+[![Conference](https://img.shields.io/badge/Conference-MODSIM%20World%202025-green.svg)](https://modsimworld.org/)
+
 ## Abstract
 
 This study demonstrates a digital twin simulation framework integrating physiological data, particularly heart rate variability (HRV) via RMSSD, to proactively predict dropout risk by modeling trainees' affective states (stable, fatigued, burnout). A Markovian state transition model with adaptive training interventions was applied to 100 virtual trainees, split into a control group following standard protocols and an intervention group with adjusted training loads based on real-time HRV thresholds. Results showed significant burnout reductions in the intervention group, with 63.03% time in stable states and only 10.14% in burnout, compared to the control group's 21.16% stable and 36.69% burnout states, marking a 72.4% reduction in burnout.
